@@ -5,7 +5,7 @@
 📫 You can always send me a holler at opeyer [at] gmail [dot] com.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ableton,github,photoshop,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,css,github,html,js,nodejs,photoshop,react,vscode)](https://skillicons.dev)
 
 ## Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opeyer)](https://github.com/ashutosh00710/github-readme-activity-graph)
